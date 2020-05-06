@@ -1,7 +1,10 @@
 Linje 1
+Rettelse x
 
 Linje 2
+Rettelse 2
 
 Linje 3
+Rettelse 3
 
 Linje 4
