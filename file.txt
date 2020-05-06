@@ -1,7 +1,11 @@
 Linje 1
+Rettelse 1
 
 Linje 2
+Rettelse 2
 
 Linje 3
+Rettelse 3
 
 Linje 4
+Rettelse 4
