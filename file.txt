@@ -1,5 +1,5 @@
 Linje 1
-Rettelse x
+Rettelse x,
 
 Linje 2
 Rettelse y
