@@ -1,8 +1,8 @@
 Linje 1
-Rettelse 1
+Rettelse x
 
 Linje 2
-Rettelse 2
+Rettelse y
 
 Linje 3
 Rettelse 3
